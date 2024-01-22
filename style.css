@@ -1,0 +1,10 @@
+.container{
+    padding-top: 6px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.divone,.divtwo,.divthree {border: 2px solid;font-weight: 700;}
+
+.divone{border-color: blue;
+background-color: pink;padding: 20px; margin-bottom: 16px;margin-left: 16px;margin-right: 16px;padding: 50px;}
