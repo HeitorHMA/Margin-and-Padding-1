@@ -10,5 +10,8 @@
 background-color: pink;padding: 20px; margin-bottom: 16px;margin-left: 16px;margin-right: 16px;padding: 50px;}
 
 .divtwo{border-color: purple;background-color: cyan; margin-bottom: 100px;
+}
 
+.divthree{
+    margin-right: 0; margin-left: 400px;margin-right: 0px;padding: 50px;border-color: brown;background-color:rgb(238, 210, 151);
 }
